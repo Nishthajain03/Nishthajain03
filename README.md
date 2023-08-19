@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishthajain03" alt="nishthajain03" /></a> </p>
 
-- 🔭 I’m currently working on [Zomato-landing-page-clone](https://github.com/Nishthajain03/Zomato-landing-page)
+- 🔭 I’m currently working on [Yoga and Fitness](https://github.com/Nishthajain03/Yoga_and_Fitness)
 
 - 🌱 I’m currently learning **Full Stack Web development**
 
