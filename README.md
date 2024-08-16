@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Yoga and Fitness](https://github.com/Nishthajain03/Yoga_and_Fitness)
 
-- 🌱 I’m currently learning **Full Stack Web development**
+- 🌱 I’m currently learning **PHP Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nishthajain03](https://github.com/Nishthajain03)
 
